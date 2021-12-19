@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="d3725617-ff3e-44fe-8745-986e0fd76319" />
+          <option name="name" value="db_lab3 (2)" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/db_lab3 (2).sql" />
+            </array>
+          </option>
+          <option name="scriptOptions">
+            <map>
+              <entry key="QualifyWithSchema" value="ALWAYS" />
+            </map>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
